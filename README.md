@@ -1,5 +1,6 @@
 # NoMoreSmartScreen
 automate sending your executable to Microsoft to prevent blue SmartScreen window
+**UPDATE**: no longer hands free, Microsoft added a captcha after pressing submit
 
 # Install Steps
 1. install python
